@@ -15,9 +15,10 @@ public class CreatedProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Goddag");
         value = 7;
-        System.out.println("Bye bye");
-        value = 9;
+        System.out.println("Farvel");
+        
     }
     
 }
