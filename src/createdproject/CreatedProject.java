@@ -7,7 +7,7 @@ package createdproject;
 
 /**
  *
- * @author David
+ * @author David New
  */
 public class CreatedProject {
     public static int value;
@@ -15,7 +15,7 @@ public class CreatedProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        value = 5;
+        value = 7;
         System.out.println("Bye bye");
     }
     
