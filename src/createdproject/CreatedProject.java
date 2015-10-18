@@ -10,12 +10,13 @@ package createdproject;
  * @author David
  */
 public class CreatedProject {
-
+    public static int value;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        value = 5;
+        System.out.println("Bye bye");
     }
     
 }
