@@ -17,6 +17,7 @@ public class CreatedProject {
     public static void main(String[] args) {
         value = 7;
         System.out.println("Bye bye");
+        value = 9;
     }
     
 }
